@@ -1,4 +1,4 @@
-# S-DES project
+# S-AES project
 This project is just for a practice
 
 
